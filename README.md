@@ -1,6 +1,6 @@
 # Md. Hasibur Rahman - Portfolio Website
 ## Jr. AI/ML Engineer, Researcher, and Data Annotator.
-## Live: https://ml-hasibur-rahman.netlify.app/
+## Live: https://hasibur013.github.io/
 This is a personal portfolio, but suggestions are welcome!
 
 ## 📄 License
